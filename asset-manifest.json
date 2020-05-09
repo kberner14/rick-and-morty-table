@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/rick-and-morty-table/static/js/main.8c4dbec5.chunk.js",
+    "main.js.map": "/rick-and-morty-table/static/js/main.8c4dbec5.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-table/static/js/runtime-main.2c36ddb5.js",
+    "runtime-main.js.map": "/rick-and-morty-table/static/js/runtime-main.2c36ddb5.js.map",
+    "static/js/2.caa3bb2e.chunk.js": "/rick-and-morty-table/static/js/2.caa3bb2e.chunk.js",
+    "static/js/2.caa3bb2e.chunk.js.map": "/rick-and-morty-table/static/js/2.caa3bb2e.chunk.js.map",
+    "index.html": "/rick-and-morty-table/index.html",
+    "precache-manifest.19d9eed6e5ad0042599f76ec79719942.js": "/rick-and-morty-table/precache-manifest.19d9eed6e5ad0042599f76ec79719942.js",
+    "service-worker.js": "/rick-and-morty-table/service-worker.js",
+    "static/js/2.caa3bb2e.chunk.js.LICENSE.txt": "/rick-and-morty-table/static/js/2.caa3bb2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c36ddb5.js",
+    "static/js/2.caa3bb2e.chunk.js",
+    "static/js/main.8c4dbec5.chunk.js"
+  ]
+}
