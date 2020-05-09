@@ -6,9 +6,6 @@ const DESCENDING = 'descending';
 
 function App() {
 	const [ characters, setCharacters ] = useState([]);
-	const [ sortDirection, setSortDirection ] = useState('');
-	const [ sortColumn, setSortColumn ] = useState('');
-	console.log(characters);
 	useEffect(() => {
 		rick_and_morty_api.fetchCharacters().then((result) => {
 			setCharacters(result.results);
